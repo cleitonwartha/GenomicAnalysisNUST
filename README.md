@@ -6,6 +6,7 @@ This repository contains information and code for replicating the analyzes perfo
 Manuscript title: "Genomic analysis and prediction within the Northern Uniform Soybean Tests" (CROP-2024-11-0815-OA)
 
 Authors: Cleiton Antonio Wartha, Aaron Joel Lorenz et al.
+
 Three main steps:
  1. Phenotypic analysis Best Linear Unbiased Estimates (BLUE) via commercial software ASReml-R
  2. Genome-wide Association Studies via open source rrBLUP::GWAS
